@@ -1,0 +1,8 @@
+PyNaCl==1.5.0
+discord.py
+gTTS
+config
+opuslib==2.0.0
+flask
+speedtest
+pytz
